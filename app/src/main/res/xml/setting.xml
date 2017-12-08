@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference android:title="User Name"
+        android:key="userKey"
+        android:summary="Enter your name"></EditTextPreference>
+    <CheckBoxPreference android:title="Sound"
+        android:key="soundKey"
+        android:defaultValue="true"
+        android:summary="Do you want sound ?">
+    </CheckBoxPreference>
+    <ListPreference android:title="Text Style"
+        android:key="tsKey"
+        android:summary="select the input style"
+        android:entries="@array/Style"
+        android:entryValues="@array/styleValues"></ListPreference>
+</PreferenceScreen>

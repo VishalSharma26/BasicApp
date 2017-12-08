@@ -1,0 +1,21 @@
+{
+ "quiz":[
+       {
+        "question": "What is JSON?",
+        "optionA" : "JavaScript Object Notation",
+        "optionB" : "JavaScript orientation Notation",
+        "optionC" : "JavaScript orientation Navigation",
+        "optionD" : "JavaScript Object Navigation",
+        "answer" : "0"
+        },
+        {
+        "question": "What is JSON?",
+        "optionA" : "JavaScript Object Notation",
+        "optionB" : "JavaScript orientation Notation",
+        "optionC" : "JavaScript orientation Navigation",
+        "optionD" : "JavaScript Object Navigation",
+        "answer" : "0"
+        }
+        ]
+}
+

@@ -1,0 +1,69 @@
+{
+ "quiz":[
+       {
+        "question": "What is the purpose of puberty?",
+        "optionA" : "To help us transition in to adulthood",
+        "optionB" : "To help our bodies mature",
+        "optionC" : "To prepare us to reproduce (have children)",
+        "optionD" : "All of the above",
+        "answer" : "4"
+        },
+        {
+        "question": "Puberty begins at the same time for everyone : ",
+        "optionA" : "True: every person begins puberty at age 11.",
+        "optionB" : "True: everyone begins puberty at the same time.",
+        "optionC" : "False: puberty begins when your body is ready and that may vary from person to person",
+        "optionD" : "False: in fact, some people never go through puberty!",
+        "answer" : "3"
+        },
+        {
+        "question": "What is an example of a physical change during puberty that BOTH BOYS AND GIRLS experience?",
+        "optionA" : "Both sexes grow taller during puberty",
+        "optionB" : "Both sexes find that their skin produces less oil during puberty",
+        "optionC" : "Both sexes experience menstruation (having a period)",
+        "optionD" : "None of the above",
+        "answer" : "3"
+        },
+        {
+        "question": "During puberty, we experience physical, social and __________ changes.",
+        "optionA" : "Academic",
+        "optionB" : "Emotional",
+        "optionC" : "Body",
+        "optionD" : "Family",
+        "answer" : "2"
+        },
+        {
+        "question": "Having a crush on someone else is an example of a ________ change during puberty:",
+        "optionA" : "Social",
+        "optionB" : "Emotional",
+        "optionC" : "Physical",
+        "optionD" : "All of the above",
+        "answer" : "4"
+        },
+        {
+        "question": "Mood swings are:",
+        "optionA" : "A dangerous medical condition that only affects some people during puberty",
+        "optionB" : "A sudden change in mood caused by unbalanced hormone levels in the body (and a normal part of puberty)",
+        "optionC" : "Something that only happens to girls during puberty",
+        "optionD" : "happens when you sit on a swing while in a bad mood",
+        "answer" : "2"
+        },
+        {
+        "question": "The two main hormones whose levels increase in the human body during puberty are called:",
+        "optionA" : "Estrogen and progesterone",
+        "optionB" : "Stress and nervousness",
+        "optionC" : "Testosterone and estrogen",
+        "optionD" : "Testosterone and imogen",
+        "answer" : "3"
+        },
+        {
+        "question": "All girls begin their period at the same time: true or false?",
+        "optionA" : "False: some girls begin as early as 8 years old, others as late as 15 or 16 years old",
+        "optionB" : "False, most do not begin until they are 13 or 14",
+        "optionC" : "False, but most people begin by age 12",
+        "optionD" : "True",
+        "answer" : "1"
+        }
+        ]
+}
+
